@@ -32,8 +32,8 @@ pip install uv
 **Quick Setup (Recommended):**
 ```bash
 # Clone the repository
-git clone https://github.com/harismanazir/cqi-be-test
-cd cqi-be-test
+git clone git@github.com:mohsinuddin1/AI_code_reviewer.git
+cd AI_code_reviewer
 
 # Install all dependencies (uv will auto-create venv and install everything)
 uv sync
